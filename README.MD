@@ -1,4 +1,4 @@
-# Deputador da Camâra 
+# Deputados da Camâra 
 ## JavaScript e HTML
 ## Features
 
@@ -19,6 +19,10 @@ For production environments...
 ## Plugins
 
 ## Development
+git init
+git add README.md
+git commit -m "Iniciando o Pojeto"
+git remote add origin git@github.com:rvsfara/deputados.git
 
 #### Building for source
 
